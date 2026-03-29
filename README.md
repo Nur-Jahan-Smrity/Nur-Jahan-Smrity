@@ -71,7 +71,7 @@ Postman | Git | GitHub | Excel | Jira (Basic)
 
 ## 📫 Connect With Me
 
-* 📧 Email: [your_email@gmail.com](mailto:nurjahansmrity474@gmail.com)
+* 📧 Email: [nurjahansmrity474@gmail.com](mailto:nurjahansmrity474@gmail.com)
 * 💼 LinkedIn: (add your link)
 
 ---
