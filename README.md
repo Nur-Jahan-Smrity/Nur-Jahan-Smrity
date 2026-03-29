@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nur Jahan Smrity
 
-### 🧪 Software Quality Assurance (QA) Engineer 🇧🇩
+### 🧪 Intern Software Quality Assurance (QA) Engineer 🇧🇩
 
 ---
 
@@ -71,7 +71,7 @@ Postman | Git | GitHub | Excel | Jira (Basic)
 
 ## 📫 Connect With Me
 
-* 📧 Email: [your_email@gmail.com](mailto:your_email@gmail.com)
+* 📧 Email: [your_email@gmail.com](mailto:nurjahansmrity474@gmail.com)
 * 💼 LinkedIn: (add your link)
 
 ---
